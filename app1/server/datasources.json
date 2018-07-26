@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory",
+    "file": "mydata.json"
+  },
+  "mymongo": {
+    "host": "ds253891.mlab.com",
+    "port": 53891,
+    "database": "loopback1",
+    "password": "kapil123",
+    "name": "mymongo",
+    "connector": "mongodb",
+    "user": "kmathe"
+  }
+}
